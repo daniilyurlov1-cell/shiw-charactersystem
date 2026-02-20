@@ -108,3 +108,6 @@ CREATE TABLE `players` (
   `last_updated` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 ```
+https://upload.fixitfy.com.tr/images/FIXITFY-JRcDtCRDai.png
+https://upload.fixitfy.com.tr/images/FIXITFY-lpaQOMqbUY.png
+https://upload.fixitfy.com.tr/images/FIXITFY-XhLqnHdUJA.png
