@@ -1,6 +1,6 @@
-# shiw-charactersystem
+# shiw Character System
 This is 2 script what u can use free to make cloth like item and get character creation. Only For RSG Framework
-DON'T RENAME RESOURCES THIS NEED FOR CORRECT INTEGRATION WITH OTHERS SCRIPT ON RSG
+IF U WANT IT MAY BE COMPTABILYTI WITH OTHERS RSG BASED SCRIPT RENAME RESOURCES TO rsg-appearance and rsg-clothingstore
 *Need to add this items in rsg-core
 ```
 -- ============================================================
