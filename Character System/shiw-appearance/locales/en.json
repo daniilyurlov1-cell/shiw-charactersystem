@@ -1,0 +1,35 @@
+{
+  "camera_prompt_text": "Camera",
+  "rotate_prompt_text": "Rotate",
+  "zoom_prompt_text": "Zoom",
+  "group_prompt_text": "Group",
+  "texts": {
+    "body": "Body",
+    "face": "Face",
+    "hair_beard": "Hair & Beard",
+    "hair_style": "Hair Style",
+    "hair_color": "Hair Color",
+    "skin_tone": "Skin Tone",
+    "appearance": "Appearance",
+    "save": "Save",
+    "creator": "Creator",
+    "options": "Options"
+  },
+  "labels": {
+    "hats": "Hat",
+    "shirts_full": "Shirt",
+    "vests": "Vest",
+    "pants": "Pants",
+    "boots": "Boots",
+    "coats": "Coat",
+    "coats_closed": "Coat (closed)"
+  },
+  "prompts": {
+    "cloakroom_text": "Wardrobe",
+    "clothing_store_label": "Clothing Store"
+  },
+  "blips": {
+    "clothing_store": "Clothing Store",
+    "wardrobe": "Wardrobe"
+  }
+}
